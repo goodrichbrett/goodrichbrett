@@ -1,6 +1,16 @@
 ### Hi there 👋
 - 🤔  I am currently seeking a software engineering / full stack developer position.
-- 🔭  Skills: JavaScript, Node.js, MongoDB, React.js, HTML, CSS, Python, Django, PostgreSQL, Heroku, Git
+🔭  Skills: 
+- JavaScript
+- Node.js
+- MongoDB
+- React.js
+- HTMLCSS
+- Python
+- Django
+- PostgreSQL
+- Heroku
+- Git
 
 <!--
 **goodrichbrett/goodrichbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
