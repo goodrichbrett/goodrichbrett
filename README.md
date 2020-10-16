@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🤔  I am currently seeking a software engineering / full stack developer position.
-###🔭  Skills: 
+### 🔭  Skills: 
 - JavaScript
 - Node.js
 - MongoDB
