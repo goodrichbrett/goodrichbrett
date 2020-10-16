@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## 🤔  I am currently seeking a software engineering / full stack developer position.
 ### 🔭  Skills: 
 - JavaScript
